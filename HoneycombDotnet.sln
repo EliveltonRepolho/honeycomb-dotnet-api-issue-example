@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E1C195BA-9202-44DF-BF75-3340F5D9A282}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HoneycombDotnet.Api", "src\HoneycombDotnet.Api\HoneycombDotnet.Api.csproj", "{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Debug|x86.ActiveCfg = Debug|x86
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Debug|x86.Build.0 = Debug|x86
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Release|x86.ActiveCfg = Release|x86
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{62CE4ABC-D858-42F5-BA46-D0A4474F30C2} = {E1C195BA-9202-44DF-BF75-3340F5D9A282}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46FEFDF-7748-4913-A952-BF2C28A99C48}
+	EndGlobalSection
+EndGlobal
